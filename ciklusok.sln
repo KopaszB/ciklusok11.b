@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_feladat", "1_feladat\1_feladat.csproj", "{BB2F2D78-87C3-403A-B779-1D021C51E329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_feladat", "2_feladat\2_feladat.csproj", "{A4E26124-7F72-43F4-8186-25008831CF14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_feladat", "3_feladat\3_feladat.csproj", "{AB201684-8F5C-40AE-8039-258B38FF3290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2F2D78-87C3-403A-B779-1D021C51E329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2F2D78-87C3-403A-B779-1D021C51E329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2F2D78-87C3-403A-B779-1D021C51E329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2F2D78-87C3-403A-B779-1D021C51E329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E26124-7F72-43F4-8186-25008831CF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E26124-7F72-43F4-8186-25008831CF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E26124-7F72-43F4-8186-25008831CF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E26124-7F72-43F4-8186-25008831CF14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB201684-8F5C-40AE-8039-258B38FF3290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB201684-8F5C-40AE-8039-258B38FF3290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB201684-8F5C-40AE-8039-258B38FF3290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB201684-8F5C-40AE-8039-258B38FF3290}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28EA2020-52DD-481F-9FA2-449308DF9520}
+	EndGlobalSection
+EndGlobal
